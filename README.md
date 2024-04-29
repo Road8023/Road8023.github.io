@@ -1,1 +1,2 @@
-# Road8023.github.io
+Life is short.
+Make the most of it！
