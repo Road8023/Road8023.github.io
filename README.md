@@ -8,4 +8,4 @@
 
 ### 访问量
 
-![](http://profile-counter.glitch.me/MrPaiZi/count.svg)
+![0](http://profile-counter.glitch.me/MrPaiZi/count.svg)
