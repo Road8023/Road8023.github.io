@@ -8,4 +8,4 @@
 
 ### 访问量
 
-[![HitCount](https://hits.dwyl.com/Road8023/https://githubcom/Road8023/Road8023githubio.svg?style=flat-square&show=unique)]（http://hits.dwyl.com/Road8023/https://githubcom/Road8023/Road8023githubio）
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})
