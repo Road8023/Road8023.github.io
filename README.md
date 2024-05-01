@@ -8,4 +8,5 @@
 
 ### 访问量
 
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{Road8023})
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{Road8023.github.io
+})
