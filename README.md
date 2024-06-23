@@ -1,5 +1,5 @@
 <template>
 	<view class="typewriter">
-		<view class="text">Life is short.<p>Make the most of it！</view>
+		<view class="text">Life is short.Make the most of it！</view>
 	</view>
 </template>
